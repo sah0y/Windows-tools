@@ -1,2 +1,1 @@
-# Windows
- 
+Script for windows users
